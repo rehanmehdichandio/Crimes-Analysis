@@ -6,7 +6,7 @@
 
 This repository presents an exploratory data analysis (EDA) of crime patterns in Los Angeles, California, using data from the Los Angeles Police Department (LAPD). The analysis aims to identify key trends in crime timing, locations, and victim demographics to support better resource allocation for public safety.
 
-The project is built around a Jupyter notebook (`https://github.com/rehanmehdichandio/Crimes-Analysis/blob/main/notebook.ipynb`) that processes the dataset, generates visualizations, and extracts actionable insights. Data is sourced from the [LAPD Crime Data](https://github.com/rehanmehdichandio/Crimes-Analysis/blob/main/crimes.xlsx) portal, modified for this exercise.
+The project is built around a Jupyter notebook (`notebook.ipynb`) that processes the dataset, generates visualizations, and extracts actionable insights. Data is sourced from the [LAPD Crime Data](https://github.com/rehanmehdichandio/Crimes-Analysis/blob/main/crimes.xlsx) portal, modified for this exercise.
 
 **Note**: As of November 02, 2025, the analysis uses historical data up to 2023. For the latest statistics, refer to the [LAPD NIBRS Victims Dataset](https://github.com/rehanmehdichandio/Crimes-Analysis/blob/main/crimes.xlsx) (updated September 17, 2025) and [Crime Trends in California 2024](https://data-openjustice.doj.ca.gov/sites/default/files/2025-07/Crime%20In%20CA%202024%20final.pdf), which show a 1.7% increase in violent crime rates statewide from 2022 to 2023, with ongoing monitoring into 2025.
 
